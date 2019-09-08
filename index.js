@@ -12,7 +12,7 @@ function logWhisper(arg){
 }
 function sayHiToGrandma(arg){
   if(arg==="hello"){
-    return "I can't hear you"
+    return "I can't hear you!"
   }else if(arg==="HELLO"){
     return "YES INDEED!"
   }else{
